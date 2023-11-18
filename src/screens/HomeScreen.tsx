@@ -10,8 +10,8 @@ export function HomeScreen() {
     <View style={{flex: 1, alignItems: 'left', margin: 10}}>
       <InfoCard
        title={'Producto 1'}
-       description={'El producto mas vendido'}
-       imageRoute={require('../images/carritoGolf.jpg')}
+       description={'El producto más vendido'}
+       imageRoute={require('../assets/images/carritoGolf.jpg')}
        />
     </View>
   );
